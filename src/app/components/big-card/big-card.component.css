@@ -3,7 +3,7 @@
     margin-left: 10px;
     margin-right: 10px;
     height: 400px;
-    width: 520px;
+    width: 500px;
     display: flex;
     flex-direction: column;
     align-items: flex;
@@ -26,9 +26,6 @@
     color: grey;
 }
 
-.container__big-card>img {
+.big-card__photo>img {
    width: 100%;
-   height: 100%;
-
-
 }
